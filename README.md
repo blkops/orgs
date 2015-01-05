@@ -13,3 +13,5 @@ Table of Contents
 - [#OperationHelporHush](http://operationhelporhush.org/)
 - [Freedom Fighters STL](https://twitter.com/FF_STL)
 - [ColorofChange.org](http://colorofchange.org/)
+- [Stream Team](https://twitter.com/fergusonstream1)
+- [Justice League NYC](http://www.gatheringforjustice.org/)
