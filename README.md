@@ -4,8 +4,14 @@ Orgs and leaders
 List of #BlackLivesMatter organizations and leaders
 
 Table of Contents
----
+-------
 
+- [Organizations](#organizations)
+- [Leaders](#leaders)
+
+-------
+
+### Organizations
 - [#BlackLivesMatter](http://blacklivesmatter.com/)
 - [Ferguson Action](http://fergusonaction.com/)
 - [The Dream Defenders](http://dreamdefenders.org/)
@@ -15,3 +21,9 @@ Table of Contents
 - [ColorofChange.org](http://colorofchange.org/)
 - [Stream Team](https://twitter.com/fergusonstream1)
 - [Justice League NYC](http://www.gatheringforjustice.org/)
+
+-------
+
+### Leaders
+- [Brownblaze](http://twitter.com/brownblaze)
+- [akacharleswade](http://twitter.com/akacharleswade)
