@@ -40,6 +40,8 @@ Table of Contents
 	* **Founded:**
 	* **Purpose:**
 - [Blackout Collective](http://www.blackoutcollective.org)
+  * **Founded:**
+  * **Purpose:**
 
 -------
 
