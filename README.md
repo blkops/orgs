@@ -42,6 +42,9 @@ Table of Contents
 - [Blackout Collective](http://www.blackoutcollective.org)
   * **Founded:**
   * **Purpose:**
+- [Million Hoodies Movement](http:www.mhoodies.org)
+  * **Founded:**
+  * **Purpose:**
 
 -------
 
