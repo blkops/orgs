@@ -39,12 +39,12 @@ Table of Contents
 - [Justice League NYC](http://www.gatheringforjustice.org/)
 	* **Founded:** Gathering for Justice was founded by Harry Belafonte in 2005
 	* **Purpose:** to "coordinate efforts in and around NYC in response to the non-indictment of Officer Daniel Pantaleo in the death of Eric Garner."
-- Blackout Collective](http://www.blackoutcollective.org)
-  * **Founded:**
-  * **Purpose:**
+- [Blackout Collective](http://www.blackoutcollective.org)
+  * **Founded:** Established in 2014
+  * **Purpose:** a "Full service Black direct action collective"
 - [Million Hoodies Movement](http:www.mhoodies.org)
-  * **Founded:**
-  * **Purpose:**
+  * **Founded:** Created in March 2012 "in response to the murder of Trayvon Martin"
+  * **Purpose:** "a national racial justice organization that empowers a nationwide network of 50,000+ members and college chapters across the US"
 -------
 
 ### Leaders
