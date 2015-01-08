@@ -44,7 +44,7 @@ Table of Contents
   * **Purpose:** a "Full service Black direct action collective"
 - [Million Hoodies Movement](http:www.mhoodies.org)
   * **Founded:** Created in March 2012 "in response to the murder of Trayvon Martin"
-  * Purpose: "a national racial justice organization that empowers a nationwide network of 50,000+ members and college chapters across the US"
+  * **Purpose:** "a national racial justice organization that empowers a nationwide network of 50,000+ members and college chapters across the US"
 -------
 
 ### Leaders
