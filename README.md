@@ -12,13 +12,13 @@ Table of Contents
 -------
 
 ### Organizations
-- [#BlackLivesMatter](http://blacklivesmatter.com/)
+- [#BlackLivesMatter](http://blacklivesmatter.com)
 	* **Founded:** In 2012 after the acquittal of George Zimmerman following the murder of Trayvon Martin, a 17 year old Black teenager.
 	* **Purpose:** Created as "a call to action and response to the virulent anti-Black racism that permeates our society."
 - [Ferguson Action](http://fergusonaction.com/)
 	* **Founded:** In the aftermath of the shooting death of Michael Brown in Ferguson, Missouri
 	* **Purpose:**
-- [The Dream Defenders](http://dreamdefenders.org/)
+- [The Dream Defenders](http://dreamdefenders.org)
 	* **Founded:**
 	* **Purpose:** to "develop the next generation of radical leaders to realize and exercise our independent collective power; building alternative systems and organizing to disrupt the structures that opprress our communities."
 - [Millennial Activists United](http://millennialau.tumblr.com/)
@@ -39,7 +39,12 @@ Table of Contents
 - [Justice League NYC](http://www.gatheringforjustice.org/)
 	* **Founded:** Gathering for Justice was founded by Harry Belafonte in 2005
 	* **Purpose:** to "coordinate efforts in and around NYC in response to the non-indictment of Officer Daniel Pantaleo in the death of Eric Garner."
-
+- Blackout Collective](http://www.blackoutcollective.org)
+  * **Founded:**
+  * **Purpose:**
+- [Million Hoodies Movement](http:www.mhoodies.org)
+  * **Founded:**
+  * **Purpose:**
 -------
 
 ### Leaders
