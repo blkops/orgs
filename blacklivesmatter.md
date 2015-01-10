@@ -8,8 +8,9 @@ Table of Contents
 - [How to Join](#howtojoin)
 - [Participating](#participating)
 - [Donate](#donate)
--------
+- [Who to Contact](#contact)
 
 ### How to Join
 ### Participating
 ### Donate
+### Who to Contact
