@@ -51,3 +51,5 @@ Table of Contents
 ### Leaders
 - [Brownblaze](http://twitter.com/brownblaze)
 - [akacharleswade](http://twitter.com/akacharleswade)
+- [deray](https://twitter.com/deray)
+- [ShordeeDooWhop](https://twitter.com/Nettaaaaaaaa)
