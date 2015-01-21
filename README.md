@@ -55,3 +55,8 @@ Table of Contents
 - [ShordeeDooWhop](https://twitter.com/Nettaaaaaaaa)
 - [MusicOverPeople](https://twitter.com/musicoverpeople)
 - [Awkward_Duck](https://twitter.com/Awkward_Duck)
+- [Tory Russell](https://twitter.com/HotepTNT)
+- [Phillip B. Agnew](https://twitter.com/PhilofDreams_)
+- [Tef Poe/FootKlan](https://twitter.com/TefPoe)
+- [Dante Barry](https://twitter.com/dantebarry)
+
