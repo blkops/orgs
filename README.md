@@ -53,3 +53,5 @@ Table of Contents
 - [akacharleswade](http://twitter.com/akacharleswade)
 - [deray](https://twitter.com/deray)
 - [ShordeeDooWhop](https://twitter.com/Nettaaaaaaaa)
+- [MusicOverPeople](https://twitter.com/musicoverpeople)
+- [Awkward_Duck](https://twitter.com/Awkward_Duck)
