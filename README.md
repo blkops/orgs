@@ -59,4 +59,7 @@ Table of Contents
 - [Phillip B. Agnew](https://twitter.com/PhilofDreams_)
 - [Tef Poe/FootKlan](https://twitter.com/TefPoe)
 - [Dante Barry](https://twitter.com/dantebarry)
+- [NaturalBlackRadical](https://twitter.com/MontagueSimmons)
+- [Umaara E.](https://twitter.com/UmaaraIynaas)
+- [SYNEAD](https://twitter.com/thesynead)
 
